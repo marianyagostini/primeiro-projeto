@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(228, 212, 235);
+}
+h1{
+    color: rgb(5, 5, 5);
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    color: rgb(154, 73, 230);
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width: 20%;
+    margin-left: 755px;
+    border: 7px dotted white; 
+}
+.benny{
+    width: 10%;
+    margin-left: 600px;
+    border: 5px dotted #97c9f1;
+}
