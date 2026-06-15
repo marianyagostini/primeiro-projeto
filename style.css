@@ -21,3 +21,15 @@ img{
     margin-left: 600px;
     border: 5px dotted #97c9f1;
 }
+.img_cabecalho{
+    height:100px;
+    width:100px;
+    transition:0.3s;
+}
+.img_cabecalho:hover{
+    opacity:0.8;
+}
+header{
+    display:flex;
+    background-color:rgb(213, 200, 223);
+}
